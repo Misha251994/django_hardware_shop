@@ -1,0 +1,1 @@
+# django_hardware_shop
